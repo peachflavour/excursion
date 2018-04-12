@@ -1,6 +1,3 @@
-.{
-  font-family: Verdana;
-}
 h1{
   font-family: Verdana;
   font-weight: normal;
@@ -15,11 +12,13 @@ h2{
 p{
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 #download{
   text-align: center;
   color: Aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 body{
   background-color: black;
@@ -29,4 +28,7 @@ footer{
   font-size: 21px;
   color: gray;
   text-align: right;
+}
+#photo{
+  align-items: center;
 }
