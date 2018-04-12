@@ -16,8 +16,17 @@ p{
   font-size: 21px;
   color: gray;
 }
-p.download{
+#download{
   text-align: center;
   color: Aquamarine;
   font-size: 16px;
+}
+body{
+  background-color: black;
+  font-family: Verdana;
+}
+footer{
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
