@@ -1,5 +1,9 @@
-h1{
+body{
+  background-color: black;
   font-family: Verdana;
+  text-align: center;
+}
+h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -13,16 +17,11 @@ p{
   font-size: 21px;
   color: gray;
 }
-#download{
+.download{
   text-align: center;
   color: Aquamarine;
   font-size: 16px;
   text-decoration: underline;
-}
-body{
-  background-color: black;
-  font-family: Verdana;
-  text-align: center;
 }
 footer{
   font-size: 21px;
