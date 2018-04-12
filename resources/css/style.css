@@ -3,16 +3,15 @@ h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 h2{
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 p{
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 #download{
   text-align: center;
@@ -23,12 +22,10 @@ p{
 body{
   background-color: black;
   font-family: Verdana;
+  text-align: center;
 }
 footer{
   font-size: 21px;
   color: gray;
   text-align: right;
-}
-#photo{
-  align-items: center;
 }
